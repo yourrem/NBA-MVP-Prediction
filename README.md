@@ -1,7 +1,7 @@
 # NBA-MVP-Prediction
 Final Project for PSTAT 131 at UCSB. 
 
-NBA MVP Prediction
+
 This project analyzes NBA player statistics to predict the Most Valuable Player (MVP) for each season using R. The goal is to identify the key performance metrics and team factors that influence MVP selection.
 The workflow includes:
 - Data Collection & Cleaning: Aggregated multi-season player stats from publicly available sources and cleaned for consistency.
